@@ -1,0 +1,17 @@
+{
+  "name": "nativefarmcart",
+  "displayName": "nativefarmcart",
+  "expo": {
+    "name": "nativefarmcart",
+    "slug": "nativefarmcart",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
